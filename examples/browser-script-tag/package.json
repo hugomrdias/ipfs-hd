@@ -2,8 +2,5 @@
   "name": "browser-script-tag",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "sandbox": {
-    "template": "static"
-  }
+  "main": "index.js"
 }
