@@ -7,7 +7,7 @@
     "jsipfs": "src/cli/bin.js"
   },
   "main": "src/core/index.js",
-  "unpkg": "dist/ipfs.min.js",
+  "unpkg": "dist/ipfs-hd.min.js",
   "browser": {
     "./src/core/components/init-assets.js": false,
     "./src/core/runtime/config-nodejs.js": "./src/core/runtime/config-browser.js",
