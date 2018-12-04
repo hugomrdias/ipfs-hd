@@ -1,7 +1,7 @@
 /* global location */
 'use strict';
 
-const IPFS = window.Ipfs;
+const IPFS = window.IpfsHd;
 
 // Node
 const $nodeId = document.querySelector('.node-id');
